@@ -1,0 +1,77 @@
+{
+  "Python": {
+    "careers": ["Data Scientist", "Backend Developer"],
+    "courses": ["Python for Beginners", "Automate Boring Stuff"],
+    "teammates": ["Frontend Dev", "ML Engineer"]
+  },
+  "C++": {
+    "careers": ["System Programmer", "Competitive Coder"],
+    "courses": ["DSA in C++", "Low-Level Design"],
+    "teammates": ["Algorithm Enthusiast", "Tech Lead"]
+  },
+  "JavaScript": {
+    "careers": ["Frontend Developer", "Full Stack Developer"],
+    "courses": ["JavaScript Essentials", "React Mastery"],
+    "teammates": ["UI/UX Designer", "Backend Dev"]
+  },
+  "Java": {
+    "careers": ["Android Developer", "Enterprise Software Engineer"],
+    "courses": ["Java Fundamentals", "Spring Boot in Depth"],
+    "teammates": ["QA Engineer", "DevOps Specialist"]
+  },
+  "SQL": {
+    "careers": ["Database Administrator", "Data Analyst"],
+    "courses": ["SQL for Data Analysis", "Advanced SQL Queries"],
+    "teammates": ["Business Analyst", "Backend Developer"]
+  },
+  "HTML/CSS": {
+    "careers": ["Web Designer", "Frontend Developer"],
+    "courses": ["HTML5 & CSS3 Basics", "Responsive Web Design"],
+    "teammates": ["JavaScript Developer", "Graphic Designer"]
+  },
+  "Go": {
+    "careers": ["Cloud Engineer", "Backend Developer"],
+    "courses": ["Go Programming Basics", "Building APIs with Go"],
+    "teammates": ["DevOps Engineer", "Microservices Architect"]
+  },
+  "R": {
+    "careers": ["Statistician", "Data Scientist"],
+    "courses": ["R for Data Science", "Statistical Analysis with R"],
+    "teammates": ["Data Analyst", "Research Scientist"]
+  },
+  "PHP": {
+    "careers": ["Web Developer", "WordPress Developer"],
+    "courses": ["PHP for Beginners", "Laravel Framework"],
+    "teammates": ["Frontend Dev", "Database Admin"]
+  },
+  "Swift": {
+    "careers": ["iOS Developer", "Mobile App Engineer"],
+    "courses": ["Swift Programming", "iOS App Development"],
+    "teammates": ["UI Designer", "QA Tester"]
+  },
+  "Kotlin": {
+    "careers": ["Android Developer", "Mobile App Developer"],
+    "courses": ["Kotlin for Beginners", "Advanced Android"],
+    "teammates": ["UI Designer", "Backend Developer"]
+  },
+  "Ruby": {
+    "careers": ["Web Developer", "Automation Engineer"],
+    "courses": ["Ruby Programming", "Ruby on Rails"],
+    "teammates": ["Frontend Dev", "QA Engineer"]
+  },
+  "MATLAB": {
+    "careers": ["Research Scientist", "Control Systems Engineer"],
+    "courses": ["MATLAB Basics", "Signal Processing with MATLAB"],
+    "teammates": ["Mechanical Engineer", "Data Scientist"]
+  },
+  "TypeScript": {
+    "careers": ["Frontend Developer", "Full Stack Developer"],
+    "courses": ["TypeScript Essentials", "React with TypeScript"],
+    "teammates": ["Backend Dev", "UI/UX Designer"]
+  },
+  "Scala": {
+    "careers": ["Big Data Engineer", "Backend Developer"],
+    "courses": ["Scala Programming", "Functional Programming in Scala"],
+    "teammates": ["Data Engineer", "DevOps Specialist"]
+  }
+}
