@@ -54,7 +54,12 @@ MIDDLEWARE = [
     
 ]
 
-CORS_ALLOW_ALL_ORIGINS = True  # DEV ONLY 
+# CORS_ALLOW_ALL_ORIGINS = True  # DEV ONLY 
+
+CORS_ALLOWED_ORIGINS = [
+    "https://skill-matcher-zbv6.vercel.app",  # ✅ your frontend
+]
+
 
 ROOT_URLCONF = 'backend.urls'
 
