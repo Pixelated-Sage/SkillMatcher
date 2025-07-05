@@ -11,7 +11,7 @@ export default function Input() {
     const skillList = skills.split(",").map(s => s.trim());
 
     try {
-      const res = await axios.post("http://localhost:8000/api/match-skills/", {
+      const res = await axios.post("https://skillmatcher-production.up.railway.app/api/match-skills/", {
         skills: skillList,
       });
 
